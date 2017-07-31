@@ -2,7 +2,7 @@
 Schoolcoin Token
 
 # Purpose
-Test token based on ERC20 standard for visibility on school activities.
+POC of token based on ERC20 standard for visibility on school activities.
 A decentralised global currency based on the Ethereum blockchain.
 
 # White Paper
