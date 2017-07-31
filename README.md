@@ -1,0 +1,2 @@
+# Schoolcoin
+Schoolcoin Token
