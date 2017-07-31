@@ -22,3 +22,9 @@ Transfer Details: https://ropsten.etherscan.io/address/0x7e7fcce3b175dcb54d1be93
 # Test
 Can be directly tested by using Metamask on Ropsten Test Net.
 
+# User Interface
+User Interface is in progress using web3.js and angularjs
+
+
+
+
