@@ -25,6 +25,13 @@ Can be directly tested by using Metamask on Ropsten Test Net.
 # User Interface
 User Interface is in progress using web3.js and angularjs
 
+# Transactions and Token Transfers
+
+# Token Transfer
+![alt text](https://github.com/akscipy/Schoolcoin/blob/master/img/Schoolcoin_tokenTransfers.JPG)
+
+# Transactions
+![alt text](https://github.com/akscipy/Schoolcoin/blob/master/img/Schoolcoin_transactions.JPG)
 
 
 
